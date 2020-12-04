@@ -54,6 +54,7 @@ with open(f'{cid}.xml', 'wb') as f:
 8. dbid: 数据库记录ID（单调递增）
 
 [参数详解](https://zhidao.baidu.com/question/1430448163912263499.html)：
+
 ① stime（float）：弹幕出现时间，单位是秒；也就是在几秒出现弹幕。
 ② mode（int）：弹幕类型，有8种；小于8为普通弹幕，8是高级弹幕。
 - 1~3：滚动弹幕
