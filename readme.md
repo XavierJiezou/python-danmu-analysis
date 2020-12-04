@@ -1,5 +1,5 @@
 # python-danmu-analysis
-这是一个基于python的弹幕爬取+可视化的项目。
+这是一个基于python的弹幕爬取+可视化分析的项目。
 # 爬取弹幕
 > 可以看我之前写的这篇文章：[10行代码下载B站弹幕](https://blog.csdn.net/qq_42951560/article/details/110501636)
 ## 代码
